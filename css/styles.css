@@ -1,0 +1,165 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  position:relative;
+  padding-top:100px;
+}
+
+.topc{
+  position:absolute;
+  top:70px;
+  right:380px;
+}
+
+.bottomc{
+  position: absolute;
+  top:330px;
+  left:380px;
+}
+
+.name{
+  font-family: 'Lobster Two', cursive;
+  margin-bottom: 0;
+  font-size: 5rem;
+  color: #66BFBF;
+
+}
+
+.des{
+  font-family: 'Square Peg', cursive;
+  font-size: 2.5rem;
+  color: #66BFBF;
+}
+
+h3{
+  color: #11999E;
+}
+
+.footer-link{
+  color: #11999E;
+}
+
+h2{
+  font-weight: normal;
+  color: #66BFBF;
+}
+
+
+.wd{
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+
+.pt{
+  width: 20%;
+  float: right;
+  margin-right: 130px;
+
+}
+
+.profile{
+  padding: 50px;
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 40px;
+}
+
+.footer-link{
+  color: #11999E;
+}
+
+.copyw{
+  color: #EAF6F6;
+}
+
+.btn {
+  background: #82c7f5;
+  background-image: -webkit-linear-gradient(top, #82c7f5, #599ac2);
+  background-image: -moz-linear-gradient(top, #82c7f5, #599ac2);
+  background-image: -ms-linear-gradient(top, #82c7f5, #599ac2);
+  background-image: -o-linear-gradient(top, #82c7f5, #599ac2);
+  background-image: linear-gradient(to bottom, #82c7f5, #599ac2);
+  -webkit-border-radius: 9;
+  -moz-border-radius: 9;
+  border-radius: 9px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 8px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #54b6f2;
+  background-image: -webkit-linear-gradient(top, #54b6f2, #3492c9);
+  background-image: -moz-linear-gradient(top, #54b6f2, #3492c9);
+  background-image: -ms-linear-gradient(top, #54b6f2, #3492c9);
+  background-image: -o-linear-gradient(top, #54b6f2, #3492c9);
+  background-image: linear-gradient(to bottom, #54b6f2, #3492c9);
+  text-decoration: none;
+}
+
+.contact-me {
+  margin: 30px;
+}
+
+.skills{
+  margin: 30px;
+}
+
+p{
+  line-height: 2;
+  font-family: 'Overpass', sans-serif;
+  font-size: 1.1rem;
+}
+
+.intro{
+  width: 30%;
+  margin: auto;
+}
+
+hr{
+  border: dotted #EAF6F6 7px;
+  border-bottom: none;
+  width: 5%;
+  margin: 100px auto;
+}
+
+.ctmsg{
+  margin: 40px auto;
+}
+
+.skill-row1{
+  width: 50%;
+  margin: 80px auto 40px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.skill-row2{
+  width: 50%;
+  margin: 130px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+h2{
+  font-family: 'Comfortaa', cursive;
+  font-size: 2.5rem;
+}
+
+.pskills{
+  width: 70%;
+}
+
+h3{
+  font-family: 'Reem Kufi', sans-serif;
+  font-size: 1.5rem;
+}
